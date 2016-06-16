@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/prabhjot/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-c5ffef3e956e0c64baf378b283afe88af7c89d4b.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-96ff1ed35bcb529008263969763cdc2a7c1ddf37.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-4afe5950bb4c7df0f24329a9be813995f8caa6a7.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-5b924de1f7995e81b36ae426ecd336059f2196a8.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-962836aa08986291c15d5d0c137538512bdea265.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-08fcac5415a7cfdcd0e12df62f3e2c6b85749bb4.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-bc029dab204f3c43df98f8d3fcfd729de9c83200.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-03958beafff98f397460e4ef99253b067096c3d7.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-cc120b8e88472e190b77ff26023908f4c9200daf.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-ce4b6329b34e94d007c5b6d70d6ca577bdaa6daa.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-d8c6d6574bc30a018f6f132f0503ec0fb5ced6b6.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-a8bc32c78dd5483811a9e582e7dddae211731b5e.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-6e2e2dadcada2e47becc545f4017a3cce59574d4.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-ddaa4ed0e803736444a7c772177b493f1b2ce8bf.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-4b832d06f713f8594c6ac274ad95b995605ac7eb.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-e82ede5c1bcba5c6f25717460e2a87372217b451.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cbdbf93189a97ea1b78ce66efdf5c2e225833b3c">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-b76eb29f87b358cc55d2ad9123bde46308ec88d6.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-f10821fac90360697c818e07002bf95be14181bf.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-f4eac6a0d5d2ef6e445f464e608c655e82f5b788.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/MoviesApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="36e26cb6307d65fd1480e7556ec071da88280722">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/classes-e654b904258a68c32414ce26ecafdad99210df79.jar" />
+    </item>
+    <item
+        jar="/home/prabhjot/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/prabhjot/MoviesApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-7f304a9ca2664fc13e0e15d57bcffd7fa33ca1ca.jar" />
+    </item>
+
+</items>
